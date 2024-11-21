@@ -83,7 +83,6 @@ async def countdown(t):
 
 async def login_and_get_userid():
    
-    print(Fore.BLUE + 'Coding By 0xRizal  '
     print(Fore.RESET)
     print("ONLY FOR P2E MEMBER")
 
