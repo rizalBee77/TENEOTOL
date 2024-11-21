@@ -86,7 +86,7 @@ async def login_and_get_userid():
     print(Fore.RESET)
     print("CODING By 0xRizal")
     print("KEEP ENJOY WITH COFE IRENG AND UDUD SAMSU")
-    print("ONLY FOR P2E MEMBER")
+    print("DIKOPIAN HELA ULAH POHO UDUD SAMSU")
 
  
     email = input("Input email: ")
